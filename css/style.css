@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url(/order-summary-component-main/images/pattern-background-desktop.svg) no-repeat;
+    background: url(/images/pattern-background-desktop.svg) no-repeat;
 
     background-color: hsl(225, 100%, 98%);
     display: flex;
